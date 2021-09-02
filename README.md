@@ -16,7 +16,7 @@
 <a href="https://codebeat.co/projects/github-com-onevcat-kingfisher"><img alt="codebeat badge" src="https://codebeat.co/assets/svg/badges/A-398b39-669406e9e1b136187b91af587d4092b0160370f271f66a651f444b990c2730e9.svg" /></a>
 --->
 </p>
-
+---
 
 - [x] 2021年9月2日
 ##### Version v1.0
