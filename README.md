@@ -50,6 +50,7 @@
 4. 避免出现表格和表注分隔两页的情况；
 
 示例1：
+
 ![image](https://user-images.githubusercontent.com/86351697/131794334-ea63d470-a242-4a06-ae05-67a98e472d38.png)
 
 
@@ -62,6 +63,7 @@
 6. 图片保存：首选R包Ipaper或ggsave等；如果命令保存存在问题，可以选择手动保存
 
 示例1：
+
 ![image](https://user-images.githubusercontent.com/86351697/131794545-d1682df5-ae9d-4002-bca7-f0fa66eef51f.png)
 
 ### 3.3 内容
@@ -78,4 +80,5 @@
 2. 要求内容准确：包括软件名称、软件版本、软件用途。
 
 示例（部分表格）：
+
 ![image](https://user-images.githubusercontent.com/86351697/131794638-293249a1-6f3c-45af-9c92-5cbafb58a15f.png)
