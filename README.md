@@ -1,6 +1,6 @@
 <div align='center' >
   <body>
-    <h1 style="color:red;font-size:40px;">项目结题报告写作标准</h1>
+    <h1 style="color:red;font-size:40px;">项目分析及写作标准</h1>
     <h4 style="color:blue;font-size:18px;">中科生信技术部</h4>
   </body>
 </div>
@@ -18,6 +18,15 @@
 </p>
 
 ---
+
+- [x] 2021年9月10日
+##### Version v2.0
+```
+1、修改为“项目分析及写作标准”；
+2、添加几个分析点的要求；
+3、添加针对方案修改的后续写作要求；
+4、新增写作要求。
+```
 
 - [x] 2021年9月2日
 ##### Version v1.0
