@@ -1,12 +1,12 @@
 <div align='center' >
   <body>
-    <h1 style="color:red;font-size:40px;">项目分析执行规范</h1>
+    <h1 style="color:red;font-size:40px;">项目分析执行规范README</h1>
     <h4 style="color:blue;font-size:18px;">中科生信技术部</h4>
   </body>
 </div>
 
 <p align="center">
-  <a href="https://github.com/Carthage/Carthage/"><img src="https://img.shields.io/badge/zhongkeshengxin-v1.0.0-4BC51D.svg?style=flat"></a>
+  <a href="https://github.com/Carthage/Carthage/"><img src="https://img.shields.io/badge/zhongkeshengxin-v4.0.0-4BC51D.svg?style=flat"></a>
 <!---
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
