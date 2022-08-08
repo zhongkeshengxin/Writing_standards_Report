@@ -1,12 +1,12 @@
 <div align='center' >
   <body>
     <h1 style="color:red;font-size:40px;">项目分析执行规范README</h1>
-    <h4 style="color:blue;font-size:18px;">中科生信技术部</h4>
+    <h4 style="color:blue;font-size:18px;">一起实验网 & 中科生信生信部</h4>
   </body>
 </div>
 
 <p align="center">
-  <a href="https://github.com/zhongkeshengxin/Writing_standards_Report"><img src="https://img.shields.io/badge/zhongkeshengxin-v4.0.0-4BC51D.svg?style=flat"></a>
+  <a href="https://github.com/zhongkeshengxin/Writing_standards_Report"><img src="https://img.shields.io/badge/Specification-v5.0.0-4BC51D.svg?style=flat"></a>
 <!---
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
@@ -18,10 +18,16 @@
 </p>
 
 ---
+- [x] 2022年08月08日
+##### Version v1.0
+一起实验网 & 中科生信生信部
+
+
+- [x] 2022年08月08日
+##### Version v5.0
 
 - [x] 2022年03月23日
 ##### Version v4.0
-
 
 - [x] 2021年11月08日
 ##### Version v3.0
