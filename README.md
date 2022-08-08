@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/zhongkeshengxin/Writing_standards_Report"><img src="https://img.shields.io/badge/zhongkeshengxin-v4.0.0-4BC51D.svg?style=flat"></a>
+  <a href="https://github.com/zhongkeshengxin/Writing_standards_Report"><img src="https://img.shields.io/badge/zhongkeshengxin-v5.0.0-4BC51D.svg?style=flat"></a>
 <!---
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
